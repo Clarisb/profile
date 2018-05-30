@@ -13,12 +13,6 @@
   text-align: center;
 }
 
-.card ul {
-  font-family: 'Share Tech Mono', monospace;
-  font-size: 20px;
-  text-align: center;
-
-}
 .card ul > li {
   display: inline-block;
   padding: 0px 20px;
