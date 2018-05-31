@@ -13,12 +13,14 @@
   text-align: center;
 }
 
-/*.card ul {
+.card ul {
+  display: inline-block;
+  padding: 0px 20px;
   font-family: 'Share Tech Mono', monospace;
   font-size: 20px;
-  text-align: center;
+  text-align: bottom-center;
 
-}*/
+}
 .card li {
   display: inline-block;
   padding: 0px 20px;
@@ -28,7 +30,7 @@
   color: #499180;
 }
 
-.card address {
+/*.card address {
   display: inline-block;
   padding: 0px 20px;
   font-family: 'Share Tech Mono', monospace;
@@ -36,7 +38,7 @@
   line-height: 0.5em;
   text-align: bottom;
 }
-
+*/
 .card address i:hover {
   color: #499180;
 }
