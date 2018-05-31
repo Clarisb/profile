@@ -34,7 +34,7 @@
   font-family: 'Share Tech Mono', monospace;
   font-size: 12px;
   line-height: 0.5em;
-  text-align: bottom-center
+  text-align: bottom;
 }
 
 .card address i:hover {
