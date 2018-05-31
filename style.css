@@ -28,6 +28,18 @@
   color: #499180;
 }
 
+.card address {
+  display: inline-block;
+  padding: 0px 20px;
+  font-family: 'Share Tech Mono', monospace;
+  font-size: 20px;
+  line-height: 0.5em;
+}
+
+.card address i:hover {
+  color: #499180;
+}
+
 
 .text-center {
   text-align: center;
